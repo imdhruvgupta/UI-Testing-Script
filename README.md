@@ -6,4 +6,4 @@ Automated UI testing Script to test google chrome search using selenium and java
 2. Run npm install -D to install dev dependencies.
 3. Run npm test to run test script.
 
-(make sure you have Google Chrome installed in your system.)
+Note: make sure you have Google Chrome installed in your system.
